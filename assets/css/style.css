@@ -180,7 +180,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 47px;
 }
 
 /**
@@ -1476,6 +1476,11 @@ section {
   color: #37423b;
   font-size: 14px;
   background: #eef0ef;
+}
+
+#footer .footer-logo {
+  width: 100px;
+  height: auto;
 }
 
 #footer .footer-top {
